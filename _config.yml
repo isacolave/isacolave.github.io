@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Isac Olave"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Postdoctoral fellow at NEOMA Business School"
+  location         : "Paris, France"
+  email            : "mailto: isac-antonio.olave-cruz@neoma-bs.fr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
