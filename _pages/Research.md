@@ -1,7 +1,7 @@
 ---
-layout: default
-title: "Research"
-permalink: /research
+title: Research
+layout: pages
+permalink: /research/
 ---
 
 Content here...
