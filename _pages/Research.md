@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: pages
+layout: archive
 permalink: /research/
 ---
 
