@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Isac Olave"
-  avatar           : "/assets/images/bio-file.jpg"
+  avatar           : "docs/assets/images/bio-file.jpg"
   bio              : "Postdoctoral fellow at NEOMA Business School"
   location         : "Paris, France"
   email            : "mailto:isac-antonio.olave-cruz@neoma-bs.fr"
