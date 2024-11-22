@@ -3,9 +3,4 @@ title: About
 layout: archive
 ---
 
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
-    {% endunless %}
-    {{ content }}
-  </div>
+<h1>About</h1>
