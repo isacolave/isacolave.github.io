@@ -5,4 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-More content...
+Totorials IREN, Paris Dauphine University|PSL, since 2023 
+Advance econometris, Paris Dauphine University|PSL, since 2023
+Spatial economics, Instituti Tec
+Microeconomía intermedia (ITAM)
