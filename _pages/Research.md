@@ -12,8 +12,8 @@ author_profile: true
   <span style="font-size: 0.8em;">*R&R Environmental and Resource Economics* </span>
 
   <details>
-  <summary>Abstract</summary>
-  Text here...
+  <summary><span style="font-size: 0.8em;">Abstract</span></summary>
+   <span style="font-size: 0.65em;">Text here...</span>
   </details>
 
 * <span style="font-size: 0.8em;">Simple Auctions to Boost Green Public Procurement: Evidence from Colombia</span> \
