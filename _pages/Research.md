@@ -9,7 +9,22 @@ author_profile: true
 
 * <span style="font-size: 0.8em;">Reducing Carbon Emissions Through Carpooling: The Effect of Environmental Policies in France</span> \
   <span style="font-size: 0.8em;">(with Maïté Stephan, Alexandre Volle, and Dianzhuo Zhu)</span> \
-  <span style="font-size: 0.8em;">*R&R Environmental and Resource Economics* </span>
+  <span style="font-size: 0.8em;">*R&R Environmental and Resource Economics* </span> <details>
+  <summary>Abstract</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 
 * <span style="font-size: 0.8em;">Simple Auctions to Boost Green Public Procurement: Evidence from Colombia</span> \
   <span style="font-size: 0.8em;">(with Carine Staropoli)</span>
