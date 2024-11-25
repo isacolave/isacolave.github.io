@@ -5,32 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-<style>
-  details {
-    margin-top: -10px;  /* Reduce the space before the abstract */
-  }
-
-  summary {
-    margin-bottom: -5px; /* Adjust if necessary */
-  }
-
-  span {
-    font-size: 0.8em;
-  }
-
-  .abstract-text {
-    font-size: 0.65em;
-  }
-</style>
-
 **Working Papers**
 
 * <span style="font-size: 0.8em;">Reducing Carbon Emissions Through Carpooling: The Effect of Environmental Policies in France</span> \
   <span style="font-size: 0.8em;">(with Maïté Stephan, Alexandre Volle, and Dianzhuo Zhu)</span> \
   <span style="font-size: 0.8em;">*R&R Environmental and Resource Economics* </span>
+  <!-- Adding a small inline style to reduce space before the abstract -->
+  <div style="margin-top: -8px;"></div>
   <details>
-  <summary>Abstract</summary>
-   Text here... 
+  <summary><span style="font-size: 0.8em;">Abstract</span></summary>
+   <span style="font-size: 0.65em;">Text here... </span>
   </details>
 
 * <span style="font-size: 0.8em;">Simple Auctions to Boost Green Public Procurement: Evidence from Colombia</span> \
