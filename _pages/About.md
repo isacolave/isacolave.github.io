@@ -3,4 +3,4 @@ title: About
 layout: archive
 ---
 
-Content here...
+I am a postdoctoral fellow at NEOMA Business School. 
