@@ -7,7 +7,10 @@ author_profile: true
 
 **Working Papers**
 
-* Reducing Carbon Emissions Through Carpooling: The Effect of Environmental Policies in France (with Maïté Stephan, Alexandre Volle, and Dianzhuo Zhu)
+* <span style="font-size: 0.8em;"> Reducing Carbon Emissions Through Carpooling: The Effect of Environmental Policies in France</span>
+
+(with Maïté Stephan, Alexandre Volle, and Dianzhuo Zhu)
+
 *R&R Environmental and Resource Economics*
 
 **Work in progress**
