@@ -5,7 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* <span style="font-size: 0.85em;">Advance econometrics, Paris Dauphine University-PSL, since 2023</span>  
-* <span style="font-size: 0.85em;">Spatial economics, Instituto Tecnológico Autónomo de México, 2024</span>  
-* <span style="font-size: 0.85em;">Microeconomía intermedia, Instituto Tecnológico Autónomo de México, 2014-2018</span>  
-* <span style="font-size: 0.85em;">Totorials IREN, Paris Dauphine University-PSL, since 2023</span>
+Paris Dauphine University - PSL:
+* <span style="font-size: 0.85em;">Advance econometrics, Lecture, 2023-2025</span>
+* <span style="font-size: 0.85em;">Advance econometrics, Tutorial, 2022-2023</span>
+* <span style="font-size: 0.85em;">Tuteur pédagogique, Lecture, 2023-2025</span>
+
+Instituto Tecnológico Autónomo de México (ITAM):
+* <span style="font-size: 0.85em;">Spatial economics, Lecture, 2023-2024</span>  
+* <span style="font-size: 0.85em;">Intermediate microeconomics, Lecture, 2014-2018</span>
+* <span style="font-size: 0.85em;">Energy economics, Tutorial, 2014-2018</span>
+
