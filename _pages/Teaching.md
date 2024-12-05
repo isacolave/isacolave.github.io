@@ -13,5 +13,5 @@ Paris Dauphine University - PSL:
 Instituto Tecnológico Autónomo de México (ITAM):
 * <span style="font-size: 0.85em;">Spatial economics, Lecture, 2023-2024</span>  
 * <span style="font-size: 0.85em;">Intermediate microeconomics, Lecture, 2014-2018</span>
-* <span style="font-size: 0.85em;">Energy economics, Tutorial, 2014-2018</span>
+* <span style="font-size: 0.85em;">Energy economics, Tutorial, 2014-2015</span>
 
