@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-Jan. 2025: <span style="font-size: 0.8em;">Our paper *Reducing Carbon Emissions Through Carpooling: The Effect of Environmental Policies in France* was recently accepted for publication in the journal Environmental & Resource Economics!</span>
+**Jan 2025**: <span style="font-size: 0.8em;">Our paper *Reducing Carbon Emissions Through Carpooling: The Effect of Environmental Policies in France* was recently accepted for publication in the journal Environmental & Resource Economics!</span>
   <!-- Adding a small inline style to reduce space before the abstract -->
   <div style="margin-top: -2.5px;"></div>
   <details>
