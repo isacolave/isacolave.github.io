@@ -1,5 +1,5 @@
 ---
-title: News !!
+title: News!!
 layout: archive
 permalink: /news/
 author_profile: true
