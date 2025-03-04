@@ -19,7 +19,7 @@ author_profile: true
 
 
 **Working Papers**
-* <span style="font-size: 0.8em;">•	Sharing Rules in Renewable Energy Communities: A review of the Literature (with Marco Gazel and Julien Jacqmin)</span>
+* <span style="font-size: 0.8em;">Sharing Rules in Renewable Energy Communities: A review of the Literature (with Marco Gazel and Julien Jacqmin)</span>
 * <span style="font-size: 0.8em;">Default sharing rule and the slow take-up of renewable energy communities in France (with Marco Gazel and Julien Jacqmin)</span>
 * <span style="font-size: 0.8em;">Simple Auctions to Boost Green Public Procurement: Evidence from Colombia (with Carine Staropoli)</span>
 * <span style="font-size: 0.8em;">Fire Bikes to the Rescue! Bike-Sharing and Public Transport Substitution</span>
