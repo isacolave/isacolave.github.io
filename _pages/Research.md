@@ -26,6 +26,3 @@ author_profile: true
 * <span style="font-size: 0.8em;">Harmonizing Dockless E-scooters: Insights from Paris (w/ Eric Brousseau, Etienne Côme, and Nicolas Coulombel)</span> 
 * <span style="font-size: 0.8em;">Contract Shifting vs Contract Splitting in Public Procurement (w/ Juan Ivars)</span>
 * <span style="font-size: 0.8em;">Pooled, not Scrambled! Harmonizing Digital Mobility Platforms (w/ Eric Brousseau)</span>
-* <span style="font-size: 0.8em;">Harmonizing Dockless E-scooters: Insights from Paris (w/ Eric Brousseau, Etienne Côme, and Nicolas Coulombel)</span> 
-* <span style="font-size: 0.8em;">Contract Shifting vs Contract Splitting in Public Procurement (w/ Juan Ivars)</span>
-* <span style="font-size: 0.8em;">Pooled, not Scrambled! Harmonizing Digital Mobility Platforms (w/ Eric Brousseau)</span>
