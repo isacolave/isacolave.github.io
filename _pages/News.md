@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-<span style="font-size: 0.8em;"> **Feb 2025**: Our paper, *Does Carpooling Reduce Carbon Emissions? The Effect of Environmental Policies in France* has been published in the journal <a href="https://link.springer.com/journal/10640" title="ERE">*Environmental & Resource Economics*</a>! <a href="https://isacolave.github.io/research/" title="reserach">Abstract</a>. </span>
+<span style="font-size: 0.8em;"> **Feb 2025**: Our paper, *Does Carpooling Reduce Carbon Emissions? The Effect of Environmental Policies in France* has been published in the journal <a href="https://link.springer.com/journal/10640" title="ERE">*Environmental & Resource Economics*</a>! <a href="https://isacolave.github.io/research/" title="reserach"> <a href="https://doi.org/10.1007/s10640-025-00962-6" title="DOI"> DOI </a> Abstract</a>. </span>
 
 <span style="font-size: 0.8em;"> **March 2025**: I will present my paper *Fire Bikes to the Rescue! Bike-Sharing and Public Transport Substitution* during the 14th European Meeting of the Urban Economics Association. <a href="https://urbaneconomics.org/meetings/emuea2025/program.html" title="ERE"> Conference program </a>
 
