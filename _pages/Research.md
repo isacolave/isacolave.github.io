@@ -19,13 +19,10 @@ author_profile: true
 
 
 **Working Papers**
-* <span style="font-size: 0.8em;">Sharing Rules in Renewable Energy Communities: A Review of the Literature (with Marco Gazel and Julien Jacqmin)</span>
-* <span style="font-size: 0.8em;">Default Sharing Rule and the Slow Take-up of Renewable Energy Communities in France (with Marco Gazel and Julien Jacqmin)</span>
-* <span style="font-size: 0.8em;">Simple Auctions to Boost Green Public Procurement: Evidence from Colombia (with Carine Staropoli)</span>
+* <span style="font-size: 0.8em;">Sharing Rules in Renewable Energy Communities: A Review of the Literature (w/ Marco Gazel and Julien Jacqmin)</span>
+* <span style="font-size: 0.8em;">Default Sharing Rule and the Slow Take-up of Renewable Energy Communities in France (w/ Marco Gazel and Julien Jacqmin)</span>
+* <span style="font-size: 0.8em;">Simple Auctions to Boost Green Public Procurement: Evidence from Colombia (w/ Carine Staropoli)</span>
 * <span style="font-size: 0.8em;">Fire Bikes to the Rescue! Bike-Sharing and Public Transport Substitution</span>
-* <span style="font-size: 0.8em;">Harmonizing Dockless E-scooters: Insights from Paris</span> \
-  <span style="font-size: 0.8em;">(with Eric Brousseau, Etienne Côme, and Nicolas Coulombel)</span>
-* <span style="font-size: 0.8em;">Contract Shifting vs Contract Splitting in Public Procurement</span> \
-  <span style="font-size: 0.8em;">(with Juan Ivars)</span>
-* <span style="font-size: 0.8em;">Pooled, not Scrambled! Harmonizing Digital Mobility Platforms</span> \
-  <span style="font-size: 0.8em;">(with Eric Brousseau)</span>
+* <span style="font-size: 0.8em;">Harmonizing Dockless E-scooters: Insights from Paris (w/ Eric Brousseau, Etienne Côme, and Nicolas Coulombel) </span> 
+* <span style="font-size: 0.8em;">Contract Shifting vs Contract Splitting in Public Procurement (w/ Juan Ivars)</span>
+* <span style="font-size: 0.8em;">Pooled, not Scrambled! Harmonizing Digital Mobility Platforms (w/ Eric Brousseau)</span>
