@@ -27,6 +27,8 @@ author_profile: true
    <span style="font-size: 0.7em;">Improper parking is one of the most significant barriers to the adoption and acceptance of dockless shared e-scooters worldwide. This paper investigates the effects of mandatory parking regulations that require e-scooters to be parked in designated bays in the form of painted corrals in Paris. To assess the impact of these regulations and their unintended effects, we develop a novel multicriteria evaluation method around three principles: efficiency, accessibility, and compliance. Using a unique large-scale database that geolocates every parked e-scooter in the city at three-hour intervals, we find that designated parking bays reduce cluttering and mis-parking. However, they also unintentionally reduce accessibility. Furthermore, we provide insights into the persistence of mis-parking and the congestion of parking bays, two key factors that contributed to the ban of shared e-scooters in the city.</span>
   </details>
 * <span style="font-size: 0.8em;">Contract Shifting vs Contract Splitting in Public Procurement (w/ Juan Ivars)</span>
+
+**Work in Progress**
 * <span style="font-size: 0.8em;">Fire Bikes to the Rescue! Bike-Sharing and Public Transport Substitution</span>*
 * <span style="font-size: 0.8em;">Sharing Rules in Renewable Energy Communities: A Review of the Literature (w/ Marco Gazel and Julien Jacqmin)</span>
 * <span style="font-size: 0.8em;">Default Sharing Rule and the Slow Take-up of Renewable Energy Communities in France (w/ Marco Gazel and Julien Jacqmin)</span>
