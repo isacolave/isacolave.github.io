@@ -19,7 +19,7 @@ author_profile: true
 
 
 **Working Papers**
-* <span style="font-size: 0.8em;">Harmonizing Dockless E-scooters: Insights from Paris (w/ Eric Brousseau, Etienne Côme, and Nicolas Coulombel)</span>
+* <span style="font-size: 0.8em;">Harmonizing Dockless E-scooters: Insights from Paris (w/ Eric Brousseau, Etienne Côme, and Nicolas Coulombel). *R&R Transportation Research Part A: Policy and Practice*</span>
  <span style="font-size: 0.8em;"> <a href="http://dx.doi.org/10.2139/ssrn.5175331" title="DOI"> Available at SSRN </a>  </span>
     <!-- Adding a small inline style to reduce space before the abstract -->
   <div style="margin-top: -2.5px;"></div>
