@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
+<span style="font-size: 0.8em;"> **September 2025**: I’m very pleased to share that I will be joining the Laboratoire d'Économie Rouen Normandie (LERN) at the University of Rouen Normandy (URN) as a Maître de conférences (MCF, associate professor), starting this fall.
+
 <span style="font-size: 0.8em;"> **June 2025**: Our paper *Pooled, not Scrambled! Harmonizing Digital Mobility Platforms* has been accepted for the <a href="https://airmap2025.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en" title="AIRMAP"> 14th International Association for Research in Public Management</a> (AIRMAP) conference, which will be held in Versailles, France.
 
 <span style="font-size: 0.8em;"> **June 2025**: Our paper *Default sharing rule for energy sharing in France* has been accepted for the <a href="https://iaee2025paris.org/" title="IAEE"> 46th International Association for Energy Economics</a> Conference, which will be held in Paris.
