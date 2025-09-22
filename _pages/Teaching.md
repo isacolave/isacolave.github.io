@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+University of Rouen Normandy:
+* <span style="font-size: 0.85em;">Principles of economics, Lecture, 2025-2026</span>
+* <span style="font-size: 0.85em;">Econometrics, Lecture, 2025-2026</span>
+
 Paris Dauphine University - PSL:
 * <span style="font-size: 0.85em;">Advance econometrics, Lecture, 2023-2025</span>
 * <span style="font-size: 0.85em;">Advance econometrics, Tutorial, 2022-2023</span>
