@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Isac Olave"
+  name             : "Isac Olave-Cruz"
   avatar           : "assets/bio1.jpg"
-  bio              : "Postdoctoral fellow at NEOMA Business School"
-  location         : "Paris, France"
-  email            : "mailto:isac-antonio.olave-cruz@neoma-bs.fr"
+  bio              : "Assistant Professor at LERN - University of Rouen Normandy"
+  location         : "Rouen, France"
+  email            : "mailto:isac-antonio.olave-cruz@univ-rouen.fr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
