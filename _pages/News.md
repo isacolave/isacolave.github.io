@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-<span style="font-size: 0.8em;"> **October 2025**: Our paper, *Harmonizing Dockless E-scooters: Insights from Paris* has been accepted for publication in the journal <a href="https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice" title="TRPA">*Transportation Research Part A: Policy and Practice*</a>! <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5175331" title="SSRN"> Available at SSRN</a>
+<span style="font-size: 0.8em;"> **October 2025**: Our paper, *Harmonizing Dockless E-scooters: Insights from Paris* has been accepted for publication in the journal <a href="https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice" title="TRPA">*Transportation Research Part A: Policy and Practice*</a>! The working paper is <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5175331" title="SSRN">available at SSRN</a>
 
 <span style="font-size: 0.8em;"> **September 2025**: I’m very pleased to share that I will be joining the Laboratoire d'Économie Rouen Normandie (LERN) at the University of Rouen Normandy (URN) as a Maître de conférences (MCF, associate professor), starting this fall.
 
