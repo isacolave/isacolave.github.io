@@ -7,8 +7,8 @@ author_profile: true
 
 **Publications**
 
-* <span style="font-size: 0.8em;">Harmonizing Dockless E-scooters: Insights from Paris (w/ Eric Brousseau, Etienne Côme, and Nicolas Coulombel). *Transportation Research Part A: Policy and Practice (forthcoming)*, Sep. 2025. The working paper is </span>
- <span style="font-size: 0.8em;"> <a href="http://dx.doi.org/10.2139/ssrn.5175331" title="DOI"> available at SSRN </a>  </span>
+* <span style="font-size: 0.8em;">Harmonizing Dockless E-scooters: Insights from Paris (w/ Eric Brousseau, Etienne Côme, and Nicolas Coulombel). *Transportation Research Part A: Policy and Practice*, Dec. 2025. </span>
+ <span style="font-size: 0.8em;"> <a href="https://authors.elsevier.com/sd/article/S0965-8564(25)00335-0" title="linktrpa"> https://doi.org/10.1016/j.tra.2025.104702 </a>  </span>
     <!-- Adding a small inline style to reduce space before the abstract -->
   <div style="margin-top: -2.5px;"></div>
   <details>
