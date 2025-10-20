@@ -5,9 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-University of Rouen Normandy:
-* <span style="font-size: 0.85em;">Principles of economics, Lecture, 2025-2026</span>
-* <span style="font-size: 0.85em;">Econometrics, Lecture, 2025-2026</span>
+University of Rouen Normandy (2025 - 2026):
+* <span style="font-size: 0.85em;">Principles of economics, L1, Lecture</span>
+* <span style="font-size: 0.85em;">Econometrics, L3, Lecture</span>
+* <span style="font-size: 0.85em;">Public economics, L2, Lecture</span>
+* <span style="font-size: 0.85em;">Geographical economics, L3, Lecture</span>
+* <span style="font-size: 0.85em;">Economics of the energy transition, M1, Lecture</span>
+* <span style="font-size: 0.85em;">Applied Numerical Methods, L2, Tutorial</span>
+
+
+Paris School of Economics, Master SIA:
+* <span style="font-size: 0.85em;">Econometrics & Data Analysis, Tutorial</span>
 
 Paris Dauphine University - PSL:
 * <span style="font-size: 0.85em;">Advance econometrics, Lecture, 2023-2025</span>
