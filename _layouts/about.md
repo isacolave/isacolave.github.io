@@ -7,7 +7,7 @@ layout: archive
 
 <p>I am an Associate Professor (Maître de Conférences) at the University of Rouen Normandy, affiliated with <a href=\"https://lern.univ-rouen.fr/" title=\"LERN\">LERN</a>.<p>
 
-<p>I am also co-editor of the <a href=\"https://pedia.govreg.eu/" title=\"pedia\">GovRegPedia</a>.<p>
+<p>I am also co-editor of <a href=\"https://pedia.govreg.eu/" title=\"pedia\">GovRegPedia</a>.<p>
 
 <p>Before joining LERN, I was a postdoctoral fellow at NEOMA Business School. I earned my PhD at the <a href=\"https://chairgovreg.fondation-dauphine.fr/" title=\"GovReg\">Governance and Regulation Chair</a> of the University Paris Dauphine - PSL under the supervision of Eric Brousseau.<p>
 <p>Before my PhD, I completed the APE Master’s program at Paris School of Economics and a Master’s degree in Economics at ITAM in Mexico. I also worked as a Junior Analyst at the Mexican Petroleum Fund, a branch of the Central Bank.<p>
