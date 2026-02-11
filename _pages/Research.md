@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 **Publications**
-* <span style="font-size: 0.8em;">Default Energy Sharing Rule: The Case of France (w/ Julien Jacqmin and Marco Gazel), *Energy Policy*, Feb. 2026.</span>
-<span style="font-size: 0.8em;"> <a href="https://doi.org/10.1016/j.enpol.2026.115074" title="linktrpa"> https://doi.org/10.1016/j.enpol.2026.115074 </a>  </span>
+* <span style="font-size: 0.8em;">Default Energy Sharing Rule: The Case of France (w/ Julien Jacqmin and Marco Gazel), *Energy Policy*, Feb. 2026.</span> <span style="font-size: 0.8em;"> <a href="https://doi.org/10.1016/j.enpol.2026.115074" title="linktrpa"> https://doi.org/10.1016/j.enpol.2026.115074 </a>  </span>
     <!-- Adding a small inline style to reduce space before the abstract -->
   <div style="margin-top: -2.5px;"></div>
   <details>
