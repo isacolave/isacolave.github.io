@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
+<span style="font-size: 0.8em;"> **April 2026**: I have been invited to chair some seminar sessions at the <a href="https://www.ioea.eu/" title=""> 23rd Institutional and Organizational Economics Academy</a> (IOEA),  which will be held in Corsica, France. <a href="https://www.ioea.eu/call" title="TRPA">Applications are open</a>.
+
 <span style="font-size: 0.8em;"> **February 2026**: Our paper, *Default Energy Sharing Rule: The Case of France*, has been accepted for publication in the journal <a href="https://www.sciencedirect.com/journal/energy-policy" title="TRPA">*Energy Policy*</a>! It is availabe <a href="https://doi.org/10.1016/j.enpol.2026.115074" title="TRPA">here</a>
 
 <span style="font-size: 0.8em;"> **October 2025**: Our paper, *Harmonizing Dockless E-scooters: Insights from Paris*, has been accepted for publication in the journal <a href="https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice" title="TRPA">*Transportation Research Part A: Policy and Practice*</a>! It is availabe <a href="https://authors.elsevier.com/sd/article/S0965-8564(25)00335-0" title="TRPA">here</a>
