@@ -6,15 +6,29 @@ classes: wide
 author_profile: true
 ---
 
+---
+title: Teaching
+layout: archive
+permalink: /teaching/
+classes: wide
+author_profile: true
+---
+
 <style>
-  /* This targets lists that follow a paragraph specifically on this page */
+  /* This targets the main content area in the archive layout */
   .archive ul {
-    line-height: 1.1;     /* Tighter line spacing */
-    margin-bottom: 1.5em; /* Space between the university sections */
+    line-height: 1.1;     /* Vertical space within a single bullet */
+    margin-top: -0.5em;   /* PULLS THE LIST UP closer to the text above */
+    margin-bottom: 1.5em; /* Space before the next University title */
   }
   .archive li {
-    margin-bottom: 0.1em; /* Tighter space between individual bullets */
-    font-size: 0.85em;    /* Your preferred font size */
+    margin-bottom: 0.1em; /* Space between individual bullet points */
+    font-size: 0.85em;    
+  }
+  
+  /* Optional: This reduces the space below the University names */
+  .archive p {
+    margin-bottom: 0.5em; 
   }
 </style>
 
