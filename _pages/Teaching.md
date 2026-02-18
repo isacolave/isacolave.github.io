@@ -6,6 +6,18 @@ classes: wide
 author_profile: true
 ---
 
+<style>
+  /* This targets lists that follow a paragraph specifically on this page */
+  .archive ul {
+    line-height: 1.1;     /* Tighter line spacing */
+    margin-bottom: 1.5em; /* Space between the university sections */
+  }
+  .archive li {
+    margin-bottom: 0.1em; /* Tighter space between individual bullets */
+    font-size: 0.85em;    /* Your preferred font size */
+  }
+</style>
+
 University of Rouen Normandy (2025 - 2026):
 * Principles of economics, L1, Lecture
 * Econometrics, L3, Lecture
