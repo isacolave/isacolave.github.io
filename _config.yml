@@ -323,3 +323,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      toc: true            # This enables the Right Column
+      toc_sticky: true     # This makes the Right Column follow you as you scroll
