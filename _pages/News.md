@@ -5,7 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
-<span style="font-size: 0.8em;"> **October 2025**: Our paper, *Harmonizing Dockless E-scooters: Insights from Paris* has been accepted for publication in the journal <a href="https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice" title="TRPA">*Transportation Research Part A: Policy and Practice*</a>! It is availabe <a href="https://authors.elsevier.com/sd/article/S0965-8564(25)00335-0" title="TRPA">here</a>
+<span style="font-size: 0.8em;"> **February 2026**: Our paper, *Default Energy Sharing Rule: The Case of France*, has been accepted for publication in the journal <a href="https://www.sciencedirect.com/journal/energy-policy" title="TRPA">*Energy Policy*</a>! It is availabe <a href="https://doi.org/10.1016/j.enpol.2026.115074" title="TRPA">here</a>
+
+<span style="font-size: 0.8em;"> **October 2025**: Our paper, *Harmonizing Dockless E-scooters: Insights from Paris*, has been accepted for publication in the journal <a href="https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice" title="TRPA">*Transportation Research Part A: Policy and Practice*</a>! It is availabe <a href="https://authors.elsevier.com/sd/article/S0965-8564(25)00335-0" title="TRPA">here</a>
 
 <span style="font-size: 0.8em;"> **September 2025**: I’m very pleased to share that I will be joining the Laboratoire d'Économie Rouen Normandie (LERN) at the University of Rouen Normandy (URN) as a Maître de conférences (MCF, associate professor), starting this fall.
 
