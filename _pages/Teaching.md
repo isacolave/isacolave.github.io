@@ -6,14 +6,6 @@ classes: wide
 author_profile: true
 ---
 
----
-title: Teaching
-layout: archive
-permalink: /teaching/
-classes: wide
-author_profile: true
----
-
 <style>
   /* This targets the main content area in the archive layout */
   .archive ul {
