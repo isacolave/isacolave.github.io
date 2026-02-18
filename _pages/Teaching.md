@@ -29,7 +29,7 @@ University of Rouen Normandy (2025 - 2026):
 * Econometrics, L3, Lecture
 * Public economics, L2, Lecture
 * Geographical economics, L3, Lecture
-* Economics of the energy transition, M1, Lecture
+* Economics of the ecologic transition, M1, Lecture
 * Applied Numerical Methods, L2, Tutorial <a href="https://rpubs.com/IsacOlave" style="font-size: 0.9em;">[Class materials]</a>
 
 Paris School of Economics, Master SIA:
