@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-<<style>
+<style>
   .teaching-list {
     font-size: 0.9em;
     line-height: 1.2; /* This tightens the line height */
