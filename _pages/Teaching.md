@@ -6,26 +6,41 @@ classes: wide
 author_profile: true
 ---
 
-<div style="line-height: 1.2;">
-University of Rouen Normandy (2025 - 2026):
-* <span style="font-size: 0.85em;">Principles of economics, L1, Lecture</span>
-* <span style="font-size: 0.85em;">Econometrics, L3, Lecture</span>
-* <span style="font-size: 0.85em;">Public economics, L2, Lecture</span>
-* <span style="font-size: 0.85em;">Geographical economics, L3, Lecture</span>
-* <span style="font-size: 0.85em;">Economics of the energy transition, M1, Lecture</span>
-* <span style="font-size: 0.85em;">Applied Numerical Methods, L2, Tutorial</span> <span style="font-size: 0.8em;"> <a href="https://rpubs.com/IsacOlave" title="materials"> Class materials. </a>  </span>
+<<style>
+  .teaching-list {
+    font-size: 0.9em;
+    line-height: 1.2; /* This tightens the line height */
+  }
+  .teaching-list ul {
+    margin-bottom: 1.2em; /* Space between the university sections */
+    margin-top: 0.3em;
+  }
+  .teaching-list li {
+    margin-bottom: 2px; /* This tightens the space between specific bullets */
+  }
+</style>
 
+<div class="teaching-list">
+
+University of Rouen Normandy (2025 - 2026):
+* Principles of economics, L1, Lecture
+* Econometrics, L3, Lecture
+* Public economics, L2, Lecture
+* Geographical economics, L3, Lecture
+* Economics of the energy transition, M1, Lecture
+* Applied Numerical Methods, L2, Tutorial <a href="https://rpubs.com/IsacOlave" style="font-size: 0.9em;">[Class materials]</a>
 
 Paris School of Economics, Master SIA:
-* <span style="font-size: 0.85em;">Econometrics & Data Analysis, Tutorial</span>
+* Econometrics & Data Analysis, Tutorial
 
 Paris Dauphine University - PSL:
-* <span style="font-size: 0.85em;">Advance econometrics, Lecture, 2023-2025</span>
-* <span style="font-size: 0.85em;">Advance econometrics, Tutorial, 2022-2023</span>
-* <span style="font-size: 0.85em;">Tuteur pédagogique, Lecture, 2023-2025</span>
+* Advance econometrics, Lecture, 2023-2025
+* Advance econometrics, Tutorial, 2022-2023
+* Tuteur pédagogique, Lecture, 2023-2025
 
 Instituto Tecnológico Autónomo de México (ITAM):
-* <span style="font-size: 0.85em;">Spatial economics, Lecture, 2023-2024</span>  
-* <span style="font-size: 0.85em;">Intermediate microeconomics, Lecture, 2014-2018</span>
-* <span style="font-size: 0.85em;">Energy economics, Tutorial, 2014-2015</span>
+* Spatial economics, Lecture, 2023-2024
+* Intermediate microeconomics, Lecture, 2014-2018
+* Energy economics, Tutorial, 2014-2015
+
 </div>
