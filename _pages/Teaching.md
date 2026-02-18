@@ -33,7 +33,7 @@ University of Rouen Normandy (2025 - 2026):
 * Applied Numerical Methods, L2, Tutorial <a href="https://rpubs.com/IsacOlave" style="font-size: 0.9em;">[Class materials]</a>
 
 Paris School of Economics, Master SIA:
-* Econometrics & Data Analysis, Tutorial
+* Econometrics & Data Analysis, Tutorial, 2025
 
 Paris Dauphine University - PSL:
 * Advance econometrics, Lecture, 2023-2025
