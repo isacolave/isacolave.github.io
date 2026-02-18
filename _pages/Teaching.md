@@ -6,6 +6,8 @@ classes: wide
 author_profile: true
 ---
 
+<div style="line-height: 1.2;">
+
 University of Rouen Normandy (2025 - 2026):
 * <span style="font-size: 0.85em;">Principles of economics, L1, Lecture</span>
 * <span style="font-size: 0.85em;">Econometrics, L3, Lecture</span>
@@ -28,3 +30,4 @@ Instituto Tecnológico Autónomo de México (ITAM):
 * <span style="font-size: 0.85em;">Intermediate microeconomics, Lecture, 2014-2018</span>
 * <span style="font-size: 0.85em;">Energy economics, Tutorial, 2014-2015</span>
 
+</div>
