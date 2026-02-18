@@ -38,7 +38,7 @@ Paris School of Economics, Master SIA:
 Paris Dauphine University - PSL:
 * Advance econometrics, Lecture, 2023-2025
 * Advance econometrics, Tutorial, 2022-2023
-* Tuteur pédagogique, Lecture, 2023-2025
+* *Tuteur pédagogique*, Lecture, 2023-2025
 
 Instituto Tecnológico Autónomo de México (ITAM):
 * Spatial economics, Lecture, 2023-2024
