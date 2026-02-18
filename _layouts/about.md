@@ -1,6 +1,7 @@
 ---
 title: About
 layout: archive
+classes: wide
 ---
 
 <h1>About</h1>
