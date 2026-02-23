@@ -8,7 +8,7 @@ author_profile: true
 
 <span style="font-size: 0.8em;"> **April 2026**: I have been invited to chair some seminar sessions at the <a href="https://www.ioea.eu/" title=""> 23rd Institutional and Organizational Economics Academy</a> (IOEA),  which will be held in Corsica, France. <a href="https://www.ioea.eu/call" title="TRPA">Applications are open</a>.
 
-<span style="font-size: 0.8em;"> **March 2026**: I will attend the workshop on Decentralized Energy Systems in Naples, italy. It is jointly organized by Université de Rouen (LERN), Paris School of Economics (Chair UND), and NEOMA Business School.
+<span style="font-size: 0.8em;"> **March 2026**: I will attend the 4th Workshop on Decentralized Energy Systems in Naples, italy. It is jointly organized by Université de Rouen (LERN), Paris School of Economics (Chair UND), NEOMA Business School, and Università degli Studi Suor Orsola Benincasa.
 
 <span style="font-size: 0.8em;"> **February 2026**: Our paper, *Default Energy Sharing Rule: The Case of France*, has been accepted for publication in the journal <a href="https://www.sciencedirect.com/journal/energy-policy" title="TRPA">*Energy Policy*</a>! It is availabe <a href="https://doi.org/10.1016/j.enpol.2026.115074" title="TRPA">here</a>
 
