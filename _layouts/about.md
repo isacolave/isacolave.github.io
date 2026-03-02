@@ -6,7 +6,7 @@ classes: wide
 
 <h1>About</h1>
 
-<p>I am an Associate Professor (Maître de Conférences) at the University of Rouen Normandy, affiliated with <a href=\"https://lern.univ-rouen.fr/" title=\"LERN\">LERN</a>.<p>
+<p>I am an Associate Professor (Maître de Conférences) at the University of Rouen Normandy, affiliated with <a href=https://lern.univ-rouen.fr" title=\"LERN\">LERN</a>.<p>
 
 <p>I am also co-editor of <a href=\"https://pedia.govreg.eu/" title=\"pedia\">GovRegPedia</a>.<p>
 
