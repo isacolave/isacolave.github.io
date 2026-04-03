@@ -6,6 +6,10 @@ classes: wide
 author_profile: true
 ---
 
+SIOE - Paris. I will present my JMP, joint work with Isac, between the 13th and 15th of July.
+
+<span style="font-size: 0.8em;"> **July 2026**: Our paper *Contract Shifting vs Contract Splitting in Public Procurement* (w/ Juan Ivars), has been accepted for the <a href="https://www.sioe.org/conference/2026" title="SIOE"> 30th Annual Society for Institutional and Organizational Economics</a> (SIOE) conference, which will be held at INSEAD, Fontainebleau, France.
+
 <span style="font-size: 0.8em;"> **April 2026**: I have been invited to chair some seminar sessions at the <a href="https://www.ioea.eu/" title=""> 23rd Institutional and Organizational Economics Academy</a> (IOEA),  which will be held in Corsica, France. <a href="https://www.ioea.eu/call" title="TRPA">Applications are open</a>.
 
 <span style="font-size: 0.8em;"> **March 2026**: I will attend the 4th Workshop on Decentralized Energy Systems in Naples, italy. It is jointly organized by Université de Rouen (LERN), Paris School of Economics (Chair UND), NEOMA Business School, and Università degli Studi Suor Orsola Benincasa.
