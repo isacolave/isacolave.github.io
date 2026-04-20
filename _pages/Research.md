@@ -7,34 +7,13 @@ author_profile: true
 ---
 
 **Publications**
-* <span style="font-size: 0.8em;">Default Energy Sharing Rule: The Case of France (w/ Julien Jacqmin and Marco Gazel), *Energy Policy*, Feb. 2026.</span> <span style="font-size: 0.8em;"> <a href="https://doi.org/10.1016/j.enpol.2026.115074" title="linktrpa"> https://doi.org/10.1016/j.enpol.2026.115074 </a>  </span>
-    <!-- Adding a small inline style to reduce space before the abstract -->
-  <div style="margin-top: -2.5px;"></div>
-  <details>
-  <summary><span style="font-size: 0.8em;">Abstract</span></summary>
-   <span style="font-size: 0.7em;">This policy perspective critically examines the French regulatory framework that governs collective self-consumption of electricity. Under the French Energy Code, energy sharing is subject to a dynamic pro rata to consumption rule by default. We demonstrate how behavioral biases and governance structures lead members to stick to this default. Furthermore, our analysis highlights several shortcomings within this regulatory framework. First, it can create inequitable distributions when members have different consumption profiles or flexibility. Second, it may generate price signals with counterproductive effects, even if the community setting brings some new scrutiny to individual actions. Finally, this centralized approach fundamentally contradicts the decentralized ethos that underpins these initiatives. By highlighting these limitations, we aim to improve the current regulations to boost the development of collective self-consumption and better inform their members before deciding which energy sharing rule to pick.</span>
-  </details>
-  
+* <span style="font-size: 0.8em;">Default Energy Sharing Rule: The Case of France (w/ Julien Jacqmin and Marco Gazel), *Energy Policy*, Feb. 2026.</span> <span style="font-size: 0.8em;"> <a href="https://doi.org/10.1016/j.enpol.2026.115074" title="linktrpa"> https://doi.org/10.1016/j.enpol.2026.115074 </a>  </span>  
 * <span style="font-size: 0.8em;">Harmonizing Dockless E-scooters: Insights from Paris (w/ Eric Brousseau, Etienne Côme, and Nicolas Coulombel). *Transportation Research Part A: Policy and Practice*, Dec. 2025. </span>
  <span style="font-size: 0.8em;"> <a href="https://authors.elsevier.com/sd/article/S0965-8564(25)00335-0" title="linktrpa"> https://doi.org/10.1016/j.tra.2025.104702 </a>  </span>
-    <!-- Adding a small inline style to reduce space before the abstract -->
-  <div style="margin-top: -2.5px;"></div>
-  <details>
-  <summary><span style="font-size: 0.8em;">Abstract</span></summary>
-   <span style="font-size: 0.7em;">Improper parking is one of the most significant barriers to the adoption and acceptance of dockless shared e-scooters worldwide. This paper investigates the effects of mandatory parking regulations that require e-scooters to be parked in designated bays in the form of painted corrals in Paris. To assess the impact of these regulations and their unintended effects, we develop a novel multicriteria evaluation method around three principles: efficiency, accessibility, and compliance. Using a unique large-scale database that geolocates every parked e-scooter in the city at three-hour intervals, we find that designated parking bays reduce cluttering and mis-parking. However, they also unintentionally reduce accessibility. Furthermore, we provide insights into the persistence of mis-parking and the congestion of parking bays, two key factors that contributed to the ban of shared e-scooters in the city.</span>
-  </details>
-
 * <span style="font-size: 0.8em;">Does Carpooling Reduce Carbon Emissions? The Effect of Environmental Policies in France</span>
   <span style="font-size: 0.8em;">(w/ Maïté Stephan, Alexandre Volle, and Dianzhuo Zhu) *Environmental & Resource Economics*, Feb. 2025. <a href="https://doi.org/10.1007/s10640-025-00962-6" title="DOI"> https://doi.org/10.1007/s10640-025-00962-6 </a>  </span>
-  <!-- Adding a small inline style to reduce space before the abstract -->
-  <div style="margin-top: -2.5px;"></div>
-  <details>
-  <summary><span style="font-size: 0.8em;">Abstract</span></summary>
-   <span style="font-size: 0.7em;">Road transportation is among the most carbon-intensive sectors in the economy, underscoring the urgent need for strategies to meet climate objectives. Carpooling has emerged as a promising solution for carbon mitigation. However, by making car travel more attractive, carpooling may lead to ambiguous environmental outcomes. This study evaluates carpooling’s potential to mitigate carbon emissions and explores various strategies to enhance its environmental benefits. A key focus of this research is the vehicle occupancy rate, which we define as a robust metric for assessing carpooling’s carbon mitigation potential. This metric is reliable as it accounts for travelers’ preferences for alternative transport modes. We also analyze how policies that impact monetary trip costs influence carpooling adoption. Using a unique database from France’s leading carpooling platform, we show that increasing monetary trip costs through carbon pricing boosts both carpooling demand and supply, while improving occupancy rates. Furthermore, we find that novice users are particularly sensitive to fluctuations in monetary trip costs. In addition to this policy, we explore the effect of encouraging drivers to transition into passengers. Our results suggest that this strategy holds significant potential for further reducing carbon emissions. The insights from this study are crucial for policymakers seeking to design more effective strategies for reducing vehicle emissions and achieving climate targets.</span>
-  </details>
 
 **Working Papers**
-
 * <span style="font-size: 0.8em;">Fire Bikes to the Rescue! Bike-Sharing and Public Transport Substitution <a href="https://isacolave.github.io/assets/FireBikesToTheRescue.pdf" title="paper">Link to the manuscrit</a></span>
     <!-- Adding a small inline style to reduce space before the abstract -->
   <div style="margin-top: -2.5px;"></div>
