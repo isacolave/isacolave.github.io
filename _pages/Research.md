@@ -35,3 +35,12 @@ author_profile: true
 * <span style="font-size: 0.8em;">Sharing Rules in Renewable Energy Communities: A Review of the Literature (w/ Marco Gazel and Julien Jacqmin)</span>
 * <span style="font-size: 0.8em;">Simple Auctions to Boost Green Public Procurement: Evidence from Colombia (w/ Carine Staropoli)</span>
 * <span style="font-size: 0.8em;">Pooled, not Scrambled! Harmonizing Digital Mobility Platforms (w/ Eric Brousseau)</span>
+
+**Other publications in which I have collaborated**
+* <span style="font-size: 0.8em;">OECD Employment Outlook 2024: The Net-Zero Transition and the Labour Market, *OECD Publishing*, Paris, 2024.</span> <span style="font-size: 0.8em;"> <a href="https://doi.org/10.1016/j.enpol.2026.115074" title="linktrpa"> [https://doi.org/10.1016/j.enpol.2026.115074](https://doi.org/10.1787/ac8b3538-en) </a>  </span>
+* <span style="font-size: 0.8em;">Real wages regaining some of the lost ground: The OECD wage bulletin, *OECD Publishing*, Paris, 2024.</span> <span style="font-size: 0.8em;"> <a href=https://doi.org/10.1787/2f798dfe-en title="linktrpa"> https://doi.org/10.1787/2f798dfe-en </a>  </span>
+* <span style="font-size: 0.8em;">OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market, *OECD Publishing*, Paris, 2023.</span> <span style="font-size: 0.8em;"> <a href="https://doi.org/10.1787/08785bba-en" title="linktrpa"> https://doi.org/10.1787/08785bba-en </a>  </span>
+* <span style="font-size: 0.8em;">Nordic Lessons for an Inclusive Recovery? Responses to the Impact of COVID-19 on the Labour Market, *OECD Publishing*, Paris, 2023.</span> <span style="font-size: 0.8em;"> <a href="https://doi.org/10.1787/2aa7bcc1-en" title="linktrpa"> https://doi.org/10.1787/2aa7bcc1-en </a>  </span>
+* <span style="font-size: 0.8em;">OECD Employment Outlook 2022: Building Back More Inclusive Labour Markets, *OECD Publishing*, Paris, 2022.</span> <span style="font-size: 0.8em;"> <a href="https://doi.org/10.1787/1bb305a6-en" title="linktrpa"> https://doi.org/10.1787/2aa7bcc1-en </a>  </span>
+
+
