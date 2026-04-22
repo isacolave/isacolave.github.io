@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 **Publications**
+* <span style="font-size: 0.8em;">Entre ambition européenne et prudence française : le cas des communautés d’énergie (w/ Julien Jacqmin and Marco Gazel), *La Revue de l’Énergie*, (*forthcoming*) </span>
 * <span style="font-size: 0.8em;">Default Energy Sharing Rule: The Case of France (w/ Julien Jacqmin and Marco Gazel), *Energy Policy*, Feb. 2026.</span> <span style="font-size: 0.8em;"> <a href="https://doi.org/10.1016/j.enpol.2026.115074" title="linktrpa"> https://doi.org/10.1016/j.enpol.2026.115074 </a>  </span>  
 * <span style="font-size: 0.8em;">Harmonizing Dockless E-scooters: Insights from Paris (w/ Eric Brousseau, Etienne Côme, and Nicolas Coulombel). *Transportation Research Part A: Policy and Practice*, Dec. 2025. </span>
  <span style="font-size: 0.8em;"> <a href="https://authors.elsevier.com/sd/article/S0965-8564(25)00335-0" title="linktrpa"> https://doi.org/10.1016/j.tra.2025.104702 </a>  </span>
