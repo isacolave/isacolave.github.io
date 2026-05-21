@@ -7,12 +7,14 @@ author_profile: true
 ---
 
 **Publications**
-* <span style="font-size: 0.8em;">Entre ambition européenne et prudence française : le cas des communautés d’énergie (w/ Julien Jacqmin and Marco Gazel), *La Revue de l’Énergie*, May 2026. </span> <span style="font-size: 0.8em;"> <a href="https://shorturl.at/17RVd" title="linktrpa"> https://shorturl.at/17RVd </a> </span>
 * <span style="font-size: 0.8em;">Default Energy Sharing Rule: The Case of France (w/ Julien Jacqmin and Marco Gazel), *Energy Policy*, Feb. 2026.</span> <span style="font-size: 0.8em;"> <a href="https://doi.org/10.1016/j.enpol.2026.115074" title="linktrpa"> https://doi.org/10.1016/j.enpol.2026.115074 </a>  </span>  
 * <span style="font-size: 0.8em;">Harmonizing Dockless E-scooters: Insights from Paris (w/ Eric Brousseau, Etienne Côme, and Nicolas Coulombel). *Transportation Research Part A: Policy and Practice*, Dec. 2025. </span>
  <span style="font-size: 0.8em;"> <a href="https://authors.elsevier.com/sd/article/S0965-8564(25)00335-0" title="linktrpa"> https://doi.org/10.1016/j.tra.2025.104702 </a>  </span>
 * <span style="font-size: 0.8em;">Does Carpooling Reduce Carbon Emissions? The Effect of Environmental Policies in France</span>
   <span style="font-size: 0.8em;">(w/ Maïté Stephan, Alexandre Volle, and Dianzhuo Zhu) *Environmental & Resource Economics*, Feb. 2025. <a href="https://doi.org/10.1007/s10640-025-00962-6" title="DOI"> https://doi.org/10.1007/s10640-025-00962-6 </a>  </span>
+
+**Other publications**
+* <span style="font-size: 0.8em;">Entre ambition européenne et prudence française : le cas des communautés d’énergie (w/ Julien Jacqmin and Marco Gazel), *La Revue de l’Énergie*, May 2026. </span> <span style="font-size: 0.8em;"> <a href="https://shorturl.at/17RVd" title="linktrpa"> https://shorturl.at/17RVd </a> </span>
 
 **Working Papers**
 * <span style="font-size: 0.8em;">Fire Bikes to the Rescue! Bike-Sharing and Public Transport Substitution <a href="https://isacolave.github.io/assets/FireBikesToTheRescue.pdf" title="paper">Link to the manuscrit</a></span>
