@@ -17,7 +17,7 @@ author_profile: true
 * <span style="font-size: 0.8em;">Entre ambition européenne et prudence française : le cas des communautés d’énergie (w/ Julien Jacqmin and Marco Gazel), *La Revue de l’Énergie*, May 2026. </span> <span style="font-size: 0.8em;"> <a href="https://shorturl.at/17RVd" title="linktrpa"> https://shorturl.at/17RVd </a> </span>
 
 **Submissions**
-* <span style="font-size: 0.8em;">Fire Bikes to the Rescue! Bike-Sharing and Public Transport Substitution <a href="https://isacolave.github.io/assets/FireBikesToTheRescue.pdf" title="paper">Link to the manuscrit</a></span>
+* <span style="font-size: 0.8em;">Fire Bikes to the Rescue! Bike-Sharing and Public Transport Substitution <a href="http://dx.doi.org/10.2139/ssrn.6877252" title="paper">Preprint</a></span>
     <!-- Adding a small inline style to reduce space before the abstract -->
   <div style="margin-top: -2.5px;"></div>
   <details>
