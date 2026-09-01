@@ -35,7 +35,7 @@ University of Rouen Normandy :
 * Econometrics, L3, Lecture, 2025 - 2026
 
 Paris School of Economics, Master SIA:
-* Econometrics & Data Analysis, Tutorial, 2025 - 2027
+* Econometrics & data analysis, Tutorial, 2025 - 2027
 
 Paris Dauphine University - PSL:
 * Advance econometrics, Lecture and tutorial, 2023-2025
