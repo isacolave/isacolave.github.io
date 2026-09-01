@@ -29,7 +29,7 @@ University of Rouen Normandy :
 * Public economics, L2, Lecture, 2025 - 2027
 * Geographical economics, L3, Lecture, 2025 - 2027
 * Economics of the ecologic transition, M1, Lecture, 2025 - 2027
-* Applied Numerical Methods, L2, Tutorial, 2025 - 2027
+* Applied numerical methods, L2, Tutorial, 2025 - 2027
 * Socio-economics, L1, Lecture, 2026 - 2027
 * Geographical Information Systems, M1, 2026 - 2027
 * Econometrics, L3, Lecture, 2025 - 2026
