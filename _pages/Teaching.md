@@ -24,16 +24,18 @@ author_profile: true
   }
 </style>
 
-University of Rouen Normandy (2025 - 2026):
-* Principles of economics, L1, Lecture
-* Econometrics, L3, Lecture
-* Public economics, L2, Lecture
-* Geographical economics, L3, Lecture
-* Economics of the ecologic transition, M1, Lecture
-* Applied Numerical Methods, L2, Tutorial
+University of Rouen Normandy :
+* Principles of economics, L1, Lecture, 2025 - 2027
+* Public economics, L2, Lecture, 2025 - 2027
+* Geographical economics, L3, Lecture, 2025 - 2027
+* Economics of the ecologic transition, M1, Lecture, 2025 - 2027
+* Applied Numerical Methods, L2, Tutorial, 2025 - 2027
+* Socio-economics, L1, Lecture, 2026 - 2027
+* Geographical Information Systems, M1, 2026 - 2027
+* Econometrics, L3, Lecture, 2025 - 2026
 
 Paris School of Economics, Master SIA:
-* Econometrics & Data Analysis, Tutorial, 2025
+* Econometrics & Data Analysis, Tutorial, 2025 - 2027
 
 Paris Dauphine University - PSL:
 * Advance econometrics, Lecture and tutorial, 2023-2025
