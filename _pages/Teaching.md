@@ -38,10 +38,10 @@ Paris School of Economics, Master SIA:
 * Econometrics & data analysis, Tutorial, 2025 - 2027
 
 Paris Dauphine University - PSL:
-* Advance econometrics, Lecture and tutorial, 2023-2025
-* *Tuteur pédagogique*, Lecture, 2023-2025
+* Advance econometrics, Lecture and tutorial, M2, 2023-2025
+* *Tuteur pédagogique*, Lecture, M2, 2023-2025
 
 Instituto Tecnológico Autónomo de México (ITAM):
-* Spatial economics, Lecture, 2023-2024
-* Intermediate microeconomics, Lecture, 2014-2018
-* Energy economics, Tutorial, 2014-2015
+* Spatial economics, Lecture, Master, 2023-2024
+* Intermediate microeconomics, Lecture, Undergrad, 2014-2018
+* Energy economics, Tutorial, Undergrad, 2014-2015
