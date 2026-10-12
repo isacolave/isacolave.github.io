@@ -7,7 +7,8 @@ author_profile: true
 ---
 
 ## 2026
-
+* <span style="font-size: 0.8em;"> **November**: I will be presenting our paper, *Contract Shifting vs Contract Splitting in Public Procurement*, at the ITAM Internal Seminar in Mexico City.</span>
+* <span style="font-size: 0.8em;"> **November**: I will be participating in upcoming academic events at the UDLAP Economics Department (Puebla, Mexico) to share my research activities and connect with the faculty. </span>
 * <span style="font-size: 0.8em;"> **July**: <b style="color: #16a34a;">[Conference]</b> Our paper *Contract Shifting vs Contract Splitting in Public Procurement* (w/ Juan Ivars), has been accepted for the <a href="https://www.sioe.org/conference/2026" title="SIOE"> 30th Annual Society for Institutional and Organizational Economics</a> (SIOE) conference, which will be held at INSEAD, Fontainebleau, France.</span>
 * <span style="font-size: 0.8em;"> **June**: <b style="color: #8b16a3;">[Press]</b> We published coverage of our paper *Does Carpooling Reduce Carbon Emissions? The Effect of Environmental Policies in France* in <a href="https://theconversation.com/la-hausse-du-prix-de-lessence-donne-un-coup-de-pouce-au-covoiturage-surtout-aux-nouveaux-utilisateurs-280492"> The Conversation
 * <span style="font-size: 0.8em;"> **June**: <b style="color: #8b16a3;">[Press]</b> We published coverage of our paper *Default Energy Sharing Rule: The Case of France* in <a href="https://theconversation.com/la-hausse-du-prix-de-lessence-donne-un-coup-de-pouce-au-covoiturage-surtout-aux-nouveaux-utilisateurs-280492"> The Conversation
