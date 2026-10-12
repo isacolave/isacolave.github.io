@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 ## Forthcoming
-* <span style="font-size: 0.8em;"> **January 2027**: <b style="color: #16a34a;">[Conference]</b> The <a href="https://adres2027.sciencesconf.org/" title="ADRES"> 2027 ADRES Job Market Conference</a> will be held at LERN - Université de Rouen Normandie, France. I am thrilled to share that I am part of the organizing committee.</span>
+* <span style="font-size: 0.8em;"> **January 2027**: <b style="color: #16a34a;">[Conference]</b> The <a href="https://adres2027.sciencesconf.org" title="ADRES"> 2027 ADRES Job Market Conference</a> will be held at LERN - Université de Rouen Normandie, France. I am thrilled to share that I am part of the organizing committee.</span>
 * <span style="font-size: 0.8em;"> **November 2026**: I will be presenting our paper, *Contract Shifting vs Contract Splitting in Public Procurement*, at the ITAM Internal Seminar in Mexico City.</span>
 * <span style="font-size: 0.8em;"> **November 2026**: I will be participating in upcoming academic events at the UDLAP Economics Department (Puebla, Mexico) to share my research activities and connect with the faculty. </span>
 
