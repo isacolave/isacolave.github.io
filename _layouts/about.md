@@ -8,6 +8,8 @@ classes: wide
 
 <p>I am an Associate Professor (Maître de Conférences) at the University of Rouen Normandy, affiliated with <a href=https://lern.univ-rouen.fr title=\"LERN\">LERN</a>.<p>
 
+<p>I serve on the Scientific Committee of the French National Council of Public Procurement (CNCP) within the Legal Affairs Directorate of the Ministry of Economy and Finance.<p>
+
 <p>I am also co-editor of <a href=https://pedia.govreg.eu title=\"pedia\">GovRegPedia</a>.<p>
 
 <p>Before joining LERN, I was a postdoctoral fellow at NEOMA Business School. I earned my PhD at the <a href=https://chairgovreg.fondation-dauphine.fr title=\"GovReg\">Governance and Regulation Chair</a> of the University Paris Dauphine - PSL.<p>
