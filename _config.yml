@@ -95,13 +95,13 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/Isac-Olave-Cruz.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : "Person"
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : "https://www.linkedin.com/in/iolave/"
 
 # Analytics
 analytics:
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Isac Olave-Cruz"
-  avatar           : "assets/Isac-Olave-Cruz.jpg"
+  avatar           : "/assets/Isac-Olave-Cruz.jpg"
   bio              : "Associate Professor at LERN - University of Rouen Normandy"
   location         : "Rouen, France"
   email            : "mailto:isac-antonio.olave-cruz@univ-rouen.fr"
